@@ -1,0 +1,49 @@
+/* 
+Theme Name: Test Blog
+Author: Helena Kjeld
+Description: A WordPress blog theme
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.navbar{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 8px;
+    margin-right: 18px;
+    background-color: white;
+}
+
+.navbar-logo{
+    height: 60px;
+}
+
+.nav_links {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: large;
+    color: rgb(107, 65, 7);
+    display: flex;
+    gap: 64px;
+    justify-content: flex-end;
+
+    a{
+    text-decoration-line: none;
+    text-decoration: none !important;
+
+    }
+    a:visited{
+        text-decoration: none;
+        color: rgb(107, 65, 7);
+    }
+
+    a:hover{
+        transform: scale(1.2);
+        transition: transform 0.5s ease-in-out;
+        color: rgb(50, 31, 3);
+    }
+}
