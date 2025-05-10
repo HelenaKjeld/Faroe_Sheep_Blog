@@ -32,3 +32,12 @@ Stack trace:
 [10-May-2025 21:18:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 17
 [10-May-2025 21:19:00 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 17
 [10-May-2025 21:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 17
+[10-May-2025 21:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:53:46 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:54:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
+[10-May-2025 21:55:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\hk020\Local Sites\test-blog\app\public\wp-content\themes\Test Blog\index.php on line 18
