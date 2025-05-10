@@ -47,3 +47,31 @@ Description: A WordPress blog theme
         color: rgb(50, 31, 3);
     }
 }
+
+.hero_section_container {
+   display: flex;
+   justify-content: center;
+
+}
+
+.hero_img {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+
+.hero_title {
+    width: 100%;
+    height: 40vh;
+    position: relative;
+    z-index: 2;
+    color: #ffffff;
+    font-family: Montserrat ;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
